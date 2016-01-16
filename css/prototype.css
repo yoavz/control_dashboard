@@ -1,0 +1,19 @@
+.navbar-brand > img {
+  max-height: 25px;
+}
+
+.artist-img > img {
+  max-height: 200px;
+}
+
+.stat-row {
+  margin: 20px 0px;
+}
+
+.stat-container { 
+  text-align: center;
+}
+
+.percent {
+  color: green
+}
